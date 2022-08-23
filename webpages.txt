@@ -1,2 +1,4 @@
 https://learning.oreilly.com/library/view/python-for-data/9781098104023/ch03.html
 https://github.com/TomJessel/pydata-book
+
+Finished on Built in Sequence functions
